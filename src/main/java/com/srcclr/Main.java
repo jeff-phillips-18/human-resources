@@ -15,7 +15,7 @@ public class Main {
 
     BCrypt.checkpw(candidate, hashed);
 
-    System.out.println("Burr Wuz Here 8");
+    System.out.println("Burr Wuz Here 9");
 
     filterXMLSignature();
 
